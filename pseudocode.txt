@@ -1,0 +1,7 @@
+Pomodoro Timer
+
+HTML/CSS
+Set up default page with Timer 
+Set up Tabs for pop ups with timer settings
+Set up tabs for short break and long break
+JavaScript
