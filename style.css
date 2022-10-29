@@ -7,6 +7,12 @@ body {
   align-items: center;
   margin: 0;
 }
+
+.page-nav {
+  display: flex;
+  width: 100%;
+  justify-content: ;
+}
 .timer-wrap {
   background-color: #5a5a5a;
   display: flex;
